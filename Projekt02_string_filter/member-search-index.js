@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"hr.unipu.stringfilter","c":"StringFilter","l":"hasEqualVowelsAndConsonants(String)","u":"hasEqualVowelsAndConsonants(java.lang.String)"},{"p":"hr.unipu.stringfilter","c":"StringFilter","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"hr.unipu.stringfilter","c":"StringFilter","l":"StringFilter()","u":"%3Cinit%3E()"}];updateSearchResults();
